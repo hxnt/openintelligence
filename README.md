@@ -5,7 +5,7 @@
 --------------------------------------------------------------------
 Exploring how to upload and download a person's knowledge: [loadintelligence.com](http://loadintelligence.com)
 ### Mission
-Create the ability to download the sum of human knowledge to a human brain using Neuralink or other BMI
+Create the ability to download the sum of human knowledge to human brains using Neuralink or other BMI
 ### Questions
  1. How is knowledge stored in the brain?
  2. How can we represent that knowledge in a structured way?

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://repository-images.githubusercontent.com/309533338/6def4d80-1d2f-11eb-92ad-a3b57b4a0971">
+  <img src="https://github.com/hxnt/openintelligence/blob/main/docs/logo.png">
 </p>
 
 --------------------------------------------------------------------

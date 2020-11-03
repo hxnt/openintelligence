@@ -3,7 +3,7 @@
 </p>
 
 --------------------------------------------------------------------
-Exploring how to upload and download a person's knowledge
+Exploring how to upload and download a person's knowledge: [loadintelligence.com](loadintelligence.com)
 ### Mission
 Create the ability to download the sum of human knowledge to a human brain using Neuralink or other BMI
 ### Questions

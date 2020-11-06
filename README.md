@@ -4,6 +4,8 @@
 
 --------------------------------------------------------------------
 Exploring how to upload and download knowledge to/from the brain
+At this point, this repo is just a sketch of ideas
+Please submit a pull request to add any ideas you may have
 ### Mission
 Create the ability to download the sum of human knowledge to a human brain using Neuralink or other BMI
 ### Questions

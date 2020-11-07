@@ -14,6 +14,8 @@ Create the ability to download the sum of human knowledge to a human brain using
  1. How is knowledge stored in the brain?
  2. How can we represent that knowledge in a structured way?
  3. How can structured knowledge be read from and written to the brain?
+ 4. What does merging a human collective with 'AI' look like at a low level?
+ 5. What is the bandwidth required between humans to reasonably upload & download knowledge?
 ### Philosophy
  1. It is important to distinguish knowledge from personality (if possible).
  2. At what % of brain/knowledge similarity are 2 people the same person? (if ever even at 100%) Or 1 person?

@@ -27,7 +27,7 @@ Create the ability to download the sum of human knowledge to a human brain using
 
 ### Philosophy
 #### Questions
- 1. It is important to distinguish knowledge from personality (if possible).
+ 1. Is knowledge different than 'personality'? If so, it is important to distinguish them (if possible).
  2. At what % of brain/knowledge similarity are 2 people the same person? (if ever even at 100%) Or 1 person?
  3. How does innovation progress with full human knowledge sum equally distributed?
  4. Do people in a highly connected human collective still act as individuals?

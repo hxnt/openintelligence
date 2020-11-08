@@ -18,6 +18,8 @@ Create the ability to download the sum of human knowledge to a human brain using
  3. How can structured knowledge be read from and written to the brain?
  4. What does merging a human collective with 'AI' look like at a low level?
  5. What is the bandwidth required between humans to reasonably upload & download knowledge?
+ 6. How much can you offload to a BMI? 
+ 7. What are the exact responsiblilities of both the brain and BMI?
 ### Philosophy
 #### Questions
  1. It is important to distinguish knowledge from personality (if possible).

@@ -1,5 +1,6 @@
 
 
+
 <p align="center">
   <img src="https://github.com/hxnt/openintelligence/blob/main/docs/logo.png">
 </p>
@@ -23,8 +24,13 @@ Create the ability to download the sum of human knowledge to a human brain using
  7. What are the exact responsibilities of both the brain and BMI?
 #### Ideas
 - "Neuralink won’t overclock the brain, it will transfer processing to the supercomputer extension of your brain. This is basically what you do when you use a smartphone or computer, but a Neuralink will have orders of magnitude faster input & output, especially latter." - [Elon Musk, Twitter](https://twitter.com/elonmusk/status/1325448724244357120)
-
-
+#### Execution
+ 1. Identify neurons that relate to a class of knowledge.
+	 - Group neurons by knowledge class, including all motor functions.
+	 - Brain > knowledge class > neuron grouping > neuron
+ 2. **Read**: Translate neuron group's structure to data structure.
+	 - Fully representative of brain's knowledge structure.
+ 3. **Write**: Set neuron states given an existing knowledge data structure.
 ### Philosophy
 #### Questions
  1. Is knowledge different than 'personality'? If so, it is important to distinguish them (if possible).
